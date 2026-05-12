@@ -1,3 +1,5 @@
+<img width="866" height="749" alt="image" src="https://github.com/user-attachments/assets/b69626f5-2ec5-474b-a821-d696f60e59e2" />
+
 # Voxel Face Shader
 
 Per-texel toon shader for Godot 4, designed for atlas-based voxel terrain. Lighting steps across individual texture pixels rather than screen pixels, so the cel-shaded bands always align with your pixel art — regardless of camera distance or view angle.
